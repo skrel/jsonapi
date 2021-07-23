@@ -1,9 +1,16 @@
 {
   "boxes": [
-    { "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
-    { "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
-    { "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
-    { "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
-    { "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" }
+    { 
+      "paramOne": "boxParamOne", 
+      "paramTwo": "boxParamTwo" 
+    },
+    { 
+      "paramOne": "boxParamOne", 
+      "paramTwo": "boxParamTwo" 
+    },
+    { 
+      "paramOne": "boxParamOne", 
+      "paramTwo": "boxParamTwo" 
+    }
   ]
 }
