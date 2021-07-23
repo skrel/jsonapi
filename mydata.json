@@ -1,11 +1,9 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { "id": "1", "title": "box1", "releaseYear": "steel" },
-    { "id": "2", "title": "box2", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
+  "boxes": [
+    { "id": "1", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "2", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "3", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "4", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "5", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" }
   ]
 }
