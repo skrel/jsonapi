@@ -1,1 +1,22 @@
-q
+{
+  "boxes": [
+    { "id": "1", "image": "", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "2", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "3", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "4", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "5", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "6", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "7", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "8", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "9", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "10", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "11", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "12", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "13", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "14", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "15", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "16", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "17", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "18", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" }
+  ]
+}
