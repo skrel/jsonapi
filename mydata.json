@@ -1,14 +1,17 @@
 {
   "boxes": [
     { 
+      "id": "1",
       "paramOne": "boxParamOne", 
       "paramTwo": "boxParamTwo" 
     },
     { 
+      "id": "2",
       "paramOne": "boxParamOne", 
       "paramTwo": "boxParamTwo" 
     },
     { 
+      "id": "3",
       "paramOne": "boxParamOne", 
       "paramTwo": "boxParamTwo" 
     }
