@@ -1,0 +1,22 @@
+{
+  "boxes": [
+    { "id": "1", "image": "https://skrel.github.io/jsonapi/image/box1.png", "paramOne": "4 in sq", "paramTwo": "boxParamTwo" },
+    { "id": "2", "image": "https://skrel.github.io/jsonapi/image/box2.png", "paramOne": "Octagon", "paramTwo": "boxParamTwo" },
+    { "id": "3", "image": "https://skrel.github.io/jsonapi/image/box3.png", "paramOne": "Old Work", "paramTwo": "boxParamTwo" },
+    { "id": "4", "image": "https://skrel.github.io/jsonapi/image/box4.png", "paramOne": "Some other box", "paramTwo": "boxParamTwo" },
+    { "id": "5", "image": "https://skrel.github.io/jsonapi/image/box5.png", "paramOne": "Open back", "paramTwo": "boxParamTwo" },
+    { "id": "6", "image": "https://skrel.github.io/jsonapi/image/box6.png", "paramOne": "4 11/16 in sq", "paramTwo": "boxParamTwo" },
+    { "id": "7", "image": "https://skrel.github.io/jsonapi/image/box7.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "8", "image": "https://skrel.github.io/jsonapi/image/box8.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "9", "image": "https://skrel.github.io/jsonapi/image/box9.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "10", "image": "https://skrel.github.io/jsonapi/image/box10.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "11", "image": "https://skrel.github.io/jsonapi/image/box11.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "12", "image": "https://skrel.github.io/jsonapi/image/box12.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "13", "image": "https://skrel.github.io/jsonapi/image/box13.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "14", "image": "https://skrel.github.io/jsonapi/image/box14.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "15", "image": "https://skrel.github.io/jsonapi/image/box15.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "16", "image": "https://skrel.github.io/jsonapi/image/box16.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "17", "image": "https://skrel.github.io/jsonapi/image/box17.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
+    { "id": "18", "image": "https://skrel.github.io/jsonapi/image/box18.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" }
+  ]
+}
