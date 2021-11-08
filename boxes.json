@@ -1,5 +1,4 @@
-{
-  "boxes": [
+[
     { "id": "1", "image": "https://skrel.github.io/jsonapi/image/box1.png", "paramOne": "4 in sq", "paramTwo": "boxParamTwo" },
     { "id": "2", "image": "https://skrel.github.io/jsonapi/image/box2.png", "paramOne": "Octagon", "paramTwo": "boxParamTwo" },
     { "id": "3", "image": "https://skrel.github.io/jsonapi/image/box3.png", "paramOne": "Old Work", "paramTwo": "boxParamTwo" },
@@ -19,4 +18,3 @@
     { "id": "17", "image": "https://skrel.github.io/jsonapi/image/box17.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" },
     { "id": "18", "image": "https://skrel.github.io/jsonapi/image/box18.png", "paramOne": "boxParamOne", "paramTwo": "boxParamTwo" }
   ]
-}
