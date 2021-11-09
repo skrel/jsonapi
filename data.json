@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "External Item 1",
-    "username": "switch",
+    "name": "4 in sq",
+    "username": "switch/outlet",
     "email": "-",
     "address": {
       "street": "-",
@@ -24,8 +24,8 @@
   },
   {
     "id": 2,
-    "name": "External Item 2",
-    "username": "switch",
+    "name": "Octagon",
+    "username": "light fix",
     "email": "-",
     "address": {
       "street": "-",
@@ -47,8 +47,8 @@
   },
   {
     "id": 3,
-    "name": "External Item 3",
-    "username": "switch",
+    "name": "Old Work",
+    "username": "switch/outlet",
     "email": "-",
     "address": {
       "street": "-",
@@ -70,8 +70,8 @@
   },
   {
     "id": 4,
-    "name": "External Item 4",
-    "username": "switch",
+    "name": "Open back",
+    "username": "switch/outlet",
     "email": "-",
     "address": {
       "street": "-",
@@ -93,140 +93,140 @@
   },
   {
     "id": 5,
-    "name": "External Item 5",
-    "username": "switch",
-    "email": "Lucio_Hettinger@annie.ca",
+    "name": "4 11/16 in sq",
+    "username": "data",
+    "email": "-",
     "address": {
-      "street": "Skiles Walks",
-      "suite": "Suite 351",
-      "city": "Roscoeview",
-      "zipcode": "33263",
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
       "geo": {
-        "lat": "-31.8129",
-        "lng": "62.5342"
+        "lat": "-",
+        "lng": "-"
       }
     },
-    "phone": "(254)954-1289",
-    "website": "demarco.info",
+    "phone": "-",
+    "website": "-",
     "company": {
-      "name": "Keebler LLC",
-      "catchPhrase": "User-centric fault-tolerant solution",
-      "bs": "revolutionize end-to-end systems"
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
     }
   },
   {
     "id": 6,
     "name": "External Item 6",
     "username": "switch",
-    "email": "Karley_Dach@jasper.info",
+    "email": "-",
     "address": {
-      "street": "Norberto Crossing",
-      "suite": "Apt. 950",
-      "city": "South Christy",
-      "zipcode": "23505-1337",
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
       "geo": {
-        "lat": "-71.4197",
-        "lng": "71.7478"
+        "lat": "-",
+        "lng": "-"
       }
     },
-    "phone": "1-477-935-8478 x6430",
-    "website": "ola.org",
+    "phone": "-",
+    "website": "-",
     "company": {
-      "name": "Considine-Lockman",
-      "catchPhrase": "Synchronised bottom-line interface",
-      "bs": "e-enable innovative applications"
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
     }
   },
   {
     "id": 7,
     "name": "External Item 7",
     "username": "switch/outlet",
-    "email": "Telly.Hoeger@billy.biz",
+    "email": "-",
     "address": {
-      "street": "Rex Trail",
-      "suite": "Suite 280",
-      "city": "Howemouth",
-      "zipcode": "58804-1099",
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
       "geo": {
-        "lat": "24.8918",
-        "lng": "21.8984"
+        "lat": "-",
+        "lng": "-"
       }
     },
-    "phone": "210.067.6132",
-    "website": "elvis.io",
+    "phone": "-",
+    "website": "-",
     "company": {
-      "name": "Johns Group",
-      "catchPhrase": "Configurable multimedia task-force",
-      "bs": "generate enterprise e-tailers"
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
     }
   },
   {
     "id": 8,
     "name": "External Item 8",
     "username": "switch/outlet",
-    "email": "Sherwood@rosamond.me",
+    "email": "-",
     "address": {
-      "street": "Ellsworth Summit",
-      "suite": "Suite 729",
-      "city": "Aliyaview",
-      "zipcode": "45169",
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
       "geo": {
-        "lat": "-14.3990",
-        "lng": "-120.7677"
+        "lat": "-",
+        "lng": "-"
       }
     },
-    "phone": "586.493.6943 x140",
-    "website": "jacynthe.com",
+    "phone": "-",
+    "website": "-",
     "company": {
-      "name": "Abernathy Group",
-      "catchPhrase": "Implemented secondary concept",
-      "bs": "e-enable extensible e-tailers"
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
     }
   },
   {
     "id": 9,
     "name": "External Item 9",
     "username": "outlet",
-    "email": "Chaim_McDermott@dana.io",
+    "email": "-",
     "address": {
-      "street": "Dayna Park",
-      "suite": "Suite 449",
-      "city": "Bartholomebury",
-      "zipcode": "76495-3109",
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
       "geo": {
-        "lat": "24.6463",
-        "lng": "-168.8889"
+        "lat": "-",
+        "lng": "-"
       }
     },
-    "phone": "(775)976-6794 x41206",
-    "website": "conrad.com",
+    "phone": "-",
+    "website": "-",
     "company": {
-      "name": "Yost and Sons",
-      "catchPhrase": "Switchable contextually-based project",
-      "bs": "aggregate real-time technologies"
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
     }
   },
   {
     "id": 10,
     "name": "External Item 10",
     "username": "outlet",
-    "email": "Rey.Padberg@karina.biz",
+    "email": "-",
     "address": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261",
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
       "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
+        "lat": "-",
+        "lng": "-"
       }
     },
-    "phone": "024-648-3804",
-    "website": "ambrose.net",
+    "phone": "-",
+    "website": "-",
     "company": {
-      "name": "Hoeger LLC",
-      "catchPhrase": "Centralized empowering task-force",
-      "bs": "target end-to-end models"
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
     }
   }
 ]
