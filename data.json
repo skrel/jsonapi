@@ -3,7 +3,7 @@
     "id": 1,
     "name": "4 in sq",
     "username": "switch/outlet",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -26,7 +26,7 @@
     "id": 2,
     "name": "Octagon",
     "username": "light fix",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -49,7 +49,7 @@
     "id": 3,
     "name": "Old Work",
     "username": "switch/outlet",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -72,7 +72,7 @@
     "id": 4,
     "name": "Open back",
     "username": "switch/outlet",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -95,7 +95,7 @@
     "id": 5,
     "name": "4 11/16 in sq",
     "username": "data",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -116,9 +116,9 @@
   },
   {
     "id": 6,
-    "name": "External Item 6",
-    "username": "switch",
-    "email": "-",
+    "name": "1 Gang Masonry",
+    "username": "switch/outlet",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -139,9 +139,9 @@
   },
   {
     "id": 7,
-    "name": "External Item 7",
+    "name": "2 Gang Masonry",
     "username": "switch/outlet",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -162,9 +162,9 @@
   },
   {
     "id": 8,
-    "name": "External Item 8",
+    "name": "3 Gang",
     "username": "switch/outlet",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -185,9 +185,9 @@
   },
   {
     "id": 9,
-    "name": "External Item 9",
+    "name": "4 Gang",
     "username": "outlet",
-    "email": "-",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -208,9 +208,32 @@
   },
   {
     "id": 10,
-    "name": "External Item 10",
-    "username": "outlet",
-    "email": "-",
+    "name": "RACO 1-Gang New/Old Work Octagonal",
+    "username": "light fix",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "phone": "-",
+    "website": "-",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 11,
+    "name": "Carlon B114R-UPC Old Work",
+    "username": "switch/outlet",
+    "email": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
