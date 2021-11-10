@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Ceiling light duty",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -26,7 +26,7 @@
     "id": 2,
     "name": "Telescoping",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -49,7 +49,7 @@
     "id": 3,
     "name": "4 in. sq. stud mount",
     "username": "not adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -72,7 +72,7 @@
     "id": 4,
     "name": "Floor mount single box",
     "username": "not adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -95,7 +95,7 @@
     "id": 5,
     "name": "Open back telescoping",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -118,7 +118,7 @@
     "id": 6,
     "name": "Floor mount triple box",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -141,7 +141,7 @@
     "id": 7,
     "name": "Ceiling fan",
     "username": "not adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -164,7 +164,7 @@
     "id": 8,
     "name": "Bracket 1",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -187,7 +187,7 @@
     "id": 9,
     "name": "Bracket 2",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -210,7 +210,7 @@
     "id": 10,
     "name": "Bracket 3",
     "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -233,7 +233,7 @@
     "id": 11,
     "name": "Carlon B114R-UPC Old Work",
     "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
