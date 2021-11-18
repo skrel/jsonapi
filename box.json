@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "4 in sq",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box1.png",
+    "purpose": "switch/outlet/data",
+    "image": "https://skrel.github.io/jsonapi/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -14,7 +14,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -25,8 +25,8 @@
   {
     "id": 2,
     "name": "Octagon",
-    "username": "light fix",
-    "email": "https://skrel.github.io/jsonapi/image/box2.png",
+    "purpose": "light fix",
+    "image": "https://skrel.github.io/jsonapi/image/box2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -37,7 +37,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -48,8 +48,8 @@
   {
     "id": 3,
     "name": "Old Work",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box3.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -60,7 +60,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -71,8 +71,8 @@
   {
     "id": 4,
     "name": "Open back",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box4.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -83,7 +83,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -94,8 +94,8 @@
   {
     "id": 5,
     "name": "4 11/16 in sq",
-    "username": "data",
-    "email": "https://skrel.github.io/jsonapi/image/box5.png",
+    "purpose": "data",
+    "image": "https://skrel.github.io/jsonapi/image/box5.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -106,7 +106,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -117,8 +117,8 @@
   {
     "id": 6,
     "name": "1 Gang Masonry",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box6.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box6.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -129,7 +129,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -140,8 +140,8 @@
   {
     "id": 7,
     "name": "2 Gang Masonry",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box7.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box7.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -152,7 +152,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -163,8 +163,8 @@
   {
     "id": 8,
     "name": "3 Gang",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box8.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box8.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -175,7 +175,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -186,8 +186,8 @@
   {
     "id": 9,
     "name": "4 Gang",
-    "username": "outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box9.png",
+    "purpose": "outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box9.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -198,7 +198,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -209,8 +209,8 @@
   {
     "id": 10,
     "name": "RACO 1-Gang New/Old Work Octagonal",
-    "username": "light fix",
-    "email": "https://skrel.github.io/jsonapi/image/box10.png",
+    "purpose": "light fix",
+    "image": "https://skrel.github.io/jsonapi/image/box10.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -221,7 +221,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -232,8 +232,8 @@
     {
     "id": 11,
     "name": "Carlon B114R-UPC Old Work",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/box11.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box11.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -244,7 +244,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
