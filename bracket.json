@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Ceiling light duty",
     "purpose": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
