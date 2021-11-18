@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Ceiling light duty",
-    "username": "adjustable",
+    "purpose": "adjustable",
     "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
@@ -25,8 +25,8 @@
   {
     "id": 2,
     "name": "Telescoping",
-    "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket2.png",
+    "purpose": "adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -37,7 +37,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -48,8 +48,8 @@
   {
     "id": 3,
     "name": "4 in. sq. stud mount",
-    "username": "not adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket3.png",
+    "purpose": "not adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -60,7 +60,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -71,8 +71,8 @@
   {
     "id": 4,
     "name": "Floor mount single box",
-    "username": "not adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket4.png",
+    "purpose": "not adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -83,7 +83,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -94,8 +94,8 @@
   {
     "id": 5,
     "name": "Open back telescoping",
-    "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -106,7 +106,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -117,8 +117,8 @@
   {
     "id": 6,
     "name": "Floor mount triple box",
-    "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -129,7 +129,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -140,8 +140,8 @@
   {
     "id": 7,
     "name": "Ceiling fan",
-    "username": "not adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "not adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -152,7 +152,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -163,8 +163,8 @@
   {
     "id": 8,
     "name": "Bracket 1",
-    "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -175,7 +175,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -186,8 +186,8 @@
   {
     "id": 9,
     "name": "Bracket 2",
-    "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -198,7 +198,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -209,8 +209,8 @@
   {
     "id": 10,
     "name": "Bracket 3",
-    "username": "adjustable",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "adjustable",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -221,7 +221,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
@@ -232,8 +232,8 @@
     {
     "id": 11,
     "name": "Carlon B114R-UPC Old Work",
-    "username": "switch/outlet",
-    "email": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -244,7 +244,7 @@
         "lng": "-"
       }
     },
-    "phone": "add quantity",
+    "qty": "add quantity",
     "website": "-",
     "company": {
       "name": "-",
