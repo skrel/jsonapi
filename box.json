@@ -24,8 +24,8 @@
   },
   {
     "id": 2,
-    "name": "Octagon",
-    "purpose": "light fix",
+    "name": "1 Gang",
+    "purpose": "convenience outlets, switches",
     "image": "https://skrel.github.io/jsonapi/image/box2.png",
     "address": {
       "street": "-",
@@ -38,7 +38,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -47,8 +47,8 @@
   },
   {
     "id": 3,
-    "name": "Old Work",
-    "purpose": "switch/outlet",
+    "name": "Octagon",
+    "purpose": "light fixture",
     "image": "https://skrel.github.io/jsonapi/image/box3.png",
     "address": {
       "street": "-",
@@ -61,7 +61,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial, ceiling",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -70,8 +70,8 @@
   },
   {
     "id": 4,
-    "name": "Open back",
-    "purpose": "switch/outlet",
+    "name": "Carlon 2-1/4 in round",
+    "purpose": "light fixture",
     "image": "https://skrel.github.io/jsonapi/image/box4.png",
     "address": {
       "street": "-",
@@ -84,7 +84,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Polycarbonate",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -93,8 +93,8 @@
   },
   {
     "id": 5,
-    "name": "4 11/16 in sq",
-    "purpose": "data",
+    "name": "4 Gang",
+    "purpose": "multi-switch/outlet/data",
     "image": "https://skrel.github.io/jsonapi/image/box5.png",
     "address": {
       "street": "-",
@@ -107,7 +107,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial, ceiling",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -116,8 +116,8 @@
   },
   {
     "id": 6,
-    "name": "1 Gang Masonry",
-    "purpose": "switch/outlet",
+    "name": "4 11/16 in sq",
+    "purpose": "switch/outlet/data",
     "image": "https://skrel.github.io/jsonapi/image/box6.png",
     "address": {
       "street": "-",
@@ -130,7 +130,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial, ceiling",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -153,7 +153,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -162,8 +162,8 @@
   },
   {
     "id": 8,
-    "name": "3 Gang",
-    "purpose": "switch/outlet",
+    "name": "1 Gang Old Work",
+    "purpose": "switch",
     "image": "https://skrel.github.io/jsonapi/image/box8.png",
     "address": {
       "street": "-",
@@ -176,7 +176,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "PVC",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -185,8 +185,8 @@
   },
   {
     "id": 9,
-    "name": "4 Gang",
-    "purpose": "outlet",
+    "name": "1 Gang 18 cu. in.",
+    "purpose": "switch/outlet",
     "image": "https://skrel.github.io/jsonapi/image/box9.png",
     "address": {
       "street": "-",
@@ -199,7 +199,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "PVC construction for durable performance",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -208,8 +208,8 @@
   },
   {
     "id": 10,
-    "name": "RACO 1-Gang New/Old Work Octagonal",
-    "purpose": "light fix",
+    "name": "3 Gang",
+    "purpose": "multi-switch/outlet/data",
     "image": "https://skrel.github.io/jsonapi/image/box10.png",
     "address": {
       "street": "-",
@@ -222,7 +222,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial, ceiling",
     "company": {
       "name": "-",
       "catchPhrase": "-",
