@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "4 in sq",
-    "purpose": "switch/outlet/data",
-    "image": "https://skrel.github.io/jsonapi/image/box1.png",
+    "name": "1 x 10 Electric Metallic Tube",
+    "purpose": "EMT Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -15,7 +15,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Steel, residential/commercial, wall/ceiling",
+    "website": "Steel, residential/commercial",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -24,9 +24,9 @@
   },
   {
     "id": 2,
-    "name": "Octagon",
-    "purpose": "light fix",
-    "image": "https://skrel.github.io/jsonapi/image/box2.png",
+    "name": "1/2 x 10 Electric Metallic Tube",
+    "purpose": "EMT Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -38,214 +38,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Old Work",
-    "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box3.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 4,
-    "name": "Open back",
-    "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box4.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": ""
-    }
-  },
-  {
-    "id": 5,
-    "name": "4 11/16 in sq",
-    "purpose": "data",
-    "image": "https://skrel.github.io/jsonapi/image/box5.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 6,
-    "name": "1 Gang Masonry",
-    "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box6.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 7,
-    "name": "2 Gang Masonry",
-    "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box7.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 8,
-    "name": "3 Gang",
-    "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box8.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 9,
-    "name": "4 Gang",
-    "purpose": "outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box9.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-  {
-    "id": 10,
-    "name": "RACO 1-Gang New/Old Work Octagonal",
-    "purpose": "light fix",
-    "image": "https://skrel.github.io/jsonapi/image/box10.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
-  },
-    {
-    "id": 11,
-    "name": "Carlon B114R-UPC Old Work",
-    "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box11.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "-",
+    "website": "Steel, residential/commercial",
     "company": {
       "name": "-",
       "catchPhrase": "-",
