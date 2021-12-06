@@ -113,5 +113,51 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 6,
+    "name": "Panelboard Enclosure Amps 400 A",
+    "purpose": "Number of Spaces 42",
+    "image": "https://skrel.github.io/jsonapi/image/panel6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Mounting Style Surface",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 7,
+    "name": "38x20x5.75in Panelboard Amps 225 A",
+    "purpose": "Number of Spaces 42",
+    "image": "https://skrel.github.io/jsonapi/image/panel7.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Square D Mounting Style Surface",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
