@@ -481,28 +481,5 @@
       "catchPhrase": "-",
       "bs": "-"
     }
-  },
-    {
-    "id": 22,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
-    "image": "https://skrel.github.io/jsonapi/image/img22.png",
-    "address": {
-      "street": "-",
-      "suite": "-",
-      "city": "-",
-      "zipcode": "-",
-      "geo": {
-        "lat": "-",
-        "lng": "-"
-      }
-    },
-    "qty": "add quantity",
-    "website": "Assembly Use",
-    "company": {
-      "name": "-",
-      "catchPhrase": "-",
-      "bs": "-"
-    }
   }
 ]
