@@ -72,7 +72,7 @@
     "id": 4,
     "name": "Junction Box 24 x 24 x 6",
     "purpose": "NEMA 4X Gasketed",
-    "image": "https://skrel.github.io/jsonapi/image/box4.png",
+    "image": "https://skrel.github.io/jsonapi/image/panel4.png",
     "address": {
       "street": "-",
       "suite": "-",
