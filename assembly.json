@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, 4in sq box",
+    "purpose": "1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img1.png",
     "address": {
       "street": "-",
@@ -15,7 +15,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -24,8 +24,8 @@
   },
   {
     "id": 2,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, 4in sq box",
+    "purpose": "1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img2.png",
     "address": {
       "street": "-",
@@ -38,7 +38,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
