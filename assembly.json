@@ -47,8 +47,8 @@
   },
   {
     "id": 3,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, 4in sq",
+    "purpose": "1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img3.png",
     "address": {
       "street": "-",
@@ -61,7 +61,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -70,8 +70,8 @@
   },
   {
     "id": 4,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, 4in sq",
+    "purpose": "1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img4.png",
     "address": {
       "street": "-",
@@ -84,7 +84,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -93,8 +93,8 @@
   },
   {
     "id": 5,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, 4in sq",
+    "purpose": "1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img5.png",
     "address": {
       "street": "-",
@@ -107,7 +107,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -116,8 +116,8 @@
   },
   {
     "id": 6,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, 4in sq",
+    "purpose": "1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img6.png",
     "address": {
       "street": "-",
@@ -130,7 +130,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -139,8 +139,8 @@
   },
   {
     "id": 7,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, open back",
+    "purpose": "1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img7.png",
     "address": {
       "street": "-",
@@ -153,7 +153,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -162,8 +162,8 @@
   },
   {
     "id": 8,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stud mount, open back",
+    "purpose": "1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img8.png",
     "address": {
       "street": "-",
@@ -176,7 +176,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -185,8 +185,8 @@
   },
   {
     "id": 9,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img9.png",
     "address": {
       "street": "-",
@@ -199,7 +199,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -208,8 +208,8 @@
   },
   {
     "id": 10,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img10.png",
     "address": {
       "street": "-",
@@ -222,7 +222,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -231,8 +231,8 @@
   },
     {
     "id": 11,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, telescop, 4in sq",
+    "purpose": "Adjustable, 1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img11.png",
     "address": {
       "street": "-",
@@ -245,7 +245,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall/ceiling",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -254,8 +254,8 @@
   },
     {
     "id": 12,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, telescop, 4in sq",
+    "purpose": "Adjustable, 1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img12.png",
     "address": {
       "street": "-",
@@ -268,7 +268,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall/ceiling",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -277,8 +277,8 @@
   },
   {
     "id": 13,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "Adjustable, 1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img13.png",
     "address": {
       "street": "-",
@@ -291,7 +291,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -300,8 +300,8 @@
   },
   {
     "id": 14,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "Adjustable, 1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img14.png",
     "address": {
       "street": "-",
@@ -314,7 +314,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -323,8 +323,8 @@
   },
   {
     "id": 15,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "Center, 1 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img15.png",
     "address": {
       "street": "-",
@@ -337,7 +337,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -346,8 +346,8 @@
   },
   {
     "id": 16,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "Center, 1 box / 2 gang",
     "image": "https://skrel.github.io/jsonapi/image/img16.png",
     "address": {
       "street": "-",
@@ -360,7 +360,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -369,8 +369,8 @@
   },
   {
     "id": 17,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, 4in sq",
+    "purpose": "2 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img17.png",
     "address": {
       "street": "-",
@@ -383,7 +383,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -392,8 +392,8 @@
   },
   {
     "id": 18,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, open back",
+    "purpose": "Adjustable, 2 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img18.png",
     "address": {
       "street": "-",
@@ -406,7 +406,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -415,8 +415,8 @@
   },
   {
     "id": 19,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, open back",
+    "purpose": "Adjustable, 2 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img19.png",
     "address": {
       "street": "-",
@@ -429,7 +429,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -438,8 +438,8 @@
   },
   {
     "id": 20,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Between studs, telescop, 4in sq",
+    "purpose": "Adjustable, 2 box / 1 gang",
     "image": "https://skrel.github.io/jsonapi/image/img20.png",
     "address": {
       "street": "-",
@@ -452,7 +452,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -461,8 +461,8 @@
   },
   {
     "id": 21,
-    "name": "Assembly Name",
-    "purpose": "Assembly Purpose",
+    "name": "Stub 90, 1in",
+    "purpose": "EMT Conduit, 90 deg bend",
     "image": "https://skrel.github.io/jsonapi/image/img21.png",
     "address": {
       "street": "-",
@@ -475,7 +475,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "Assembly Use",
+    "website": "Residential/commercial, wall/ceiling/floor",
     "company": {
       "name": "-",
       "catchPhrase": "-",
