@@ -90,5 +90,120 @@
       "catchPhrase": "-",
       "bs": ""
     }
+  },
+    {
+    "id": 5,
+    "name": "15 Amp Single-pole",
+    "purpose": "light switch, white",
+    "image": "https://skrel.github.io/jsonapi/image/device5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+    {
+    "id": 6,
+    "name": "15 Amp Single-Pole",
+    "purpose": "light switch, white",
+    "image": "https://skrel.github.io/jsonapi/image/device6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+    {
+    "id": 7,
+    "name": "15 Amp Single-Pole Toggle",
+    "purpose": "light switch, white",
+    "image": "https://skrel.github.io/jsonapi/image/device7.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+    {
+    "id": 8,
+    "name": "15 Amp 3-Way Toggle",
+    "purpose": "light switch, black",
+    "image": "https://skrel.github.io/jsonapi/image/device8.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+    {
+    "id": 9,
+    "name": "15 Amp 3-Way Switch",
+    "purpose": "light switch, black",
+    "image": "https://skrel.github.io/jsonapi/image/device9.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
   }
 ]
