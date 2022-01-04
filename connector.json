@@ -44,5 +44,51 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 3,
+    "name": "Bx/mc/flex 3/8-Inch",
+    "purpose": "Combination Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Combination Connector",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 4,
+    "name": " 3/8in Armored Cable / Flex Conn",
+    "purpose": "38A",
+    "image": "https://skrel.github.io/jsonapi/image/connector4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "1/2in Knockout",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
