@@ -67,5 +67,143 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 4,
+    "name": "Between studs",
+    "purpose": "3 electrical boxes",
+    "image": "https://skrel.github.io/jsonapi/image/bracket4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 5,
+    "name": "Between studs",
+    "purpose": "electrical box mount",
+    "image": "https://skrel.github.io/jsonapi/image/bracket5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 6,
+    "name": "Between studs",
+    "purpose": "3 electrical boxes",
+    "image": "https://skrel.github.io/jsonapi/image/bracket6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 7,
+    "name": "Snap to Stud 2-1/2 3-5/8",
+    "purpose": "Up to 6in Wall Depth, 4in, 4 11/16in Box",
+    "image": "https://skrel.github.io/jsonapi/image/bracket7.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 8,
+    "name": "Steel Mounting Bracket",
+    "purpose": "electrical box",
+    "image": "https://skrel.github.io/jsonapi/image/bracket8.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 9,
+    "name": "Steel Mounting Bracket",
+    "purpose": "electrical box, far side support",
+    "image": "https://skrel.github.io/jsonapi/image/bracket9.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
