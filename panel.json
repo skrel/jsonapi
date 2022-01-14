@@ -116,7 +116,7 @@
   },
     {
     "id": 6,
-    "name": "Panelboard Enclosure Amps 400 A",
+    "name": "Panel 400 A 44x20x5.75in",
     "purpose": "Number of Spaces 42",
     "image": "https://skrel.github.io/jsonapi/image/panel6.png",
     "address": {
@@ -154,6 +154,144 @@
     },
     "qty": "add quantity",
     "website": "Square D Mounting Style Surface",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 8,
+    "name": "Pull Box 12x12x6in",
+    "purpose": "Screw cover with KO",
+    "image": "https://skrel.github.io/jsonapi/image/panel8.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray, commercial and general industrial applications",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 9,
+    "name": "Pull Box 12x12x4in",
+    "purpose": "Screw cover with KO",
+    "image": "https://skrel.github.io/jsonapi/image/panel9.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray, commercial and general industrial applications",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 10,
+    "name": "Panel 400 A 44x20x5.75in",
+    "purpose": "Number of Spaces 54",
+    "image": "https://skrel.github.io/jsonapi/image/panel10.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Mounting Style Surface",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 11,
+    "name": "Panel 400 A 68x20x5.75in",
+    "purpose": "Number of Spaces 42",
+    "image": "https://skrel.github.io/jsonapi/image/panel11.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Mounting Style Surface",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 12,
+    "name": "Straight Wireway",
+    "purpose": "4x4x10ft long",
+    "image": "https://skrel.github.io/jsonapi/image/panel12.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray Polyester Powder Finish",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 13,
+    "name": "Wiring Trough, 72L x 12W x 13-1/2H",
+    "purpose": "Threaded Cover",
+    "image": "https://skrel.github.io/jsonapi/image/panel13.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "304 Stainless Steel",
     "company": {
       "name": "-",
       "catchPhrase": "-",
