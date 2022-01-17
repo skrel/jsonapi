@@ -44,5 +44,235 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 3,
+    "name": "3/4x10 Electric Metallic Tube",
+    "purpose": "EMT Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 4,
+    "name": "1-1/4x10 Electric Metallic Tube",
+    "purpose": "EMT Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 5,
+    "name": "1-1/2 x 10 Electric Metallic Tube",
+    "purpose": "EMT Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 6,
+    "name": "2 x 10 Electric Metallic Tube",
+    "purpose": "EMT Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 7,
+    "name": "1/2 x 10 Rigid Conduit",
+    "purpose": "Rigid Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 8,
+    "name": "3/4 x 10 Rigid Conduit",
+    "purpose": "Rigid Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 9,
+    "name": "1 x 10 Rigid Conduit",
+    "purpose": "Rigid Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 10,
+    "name": "1-1/4 x 10 Rigid Conduit",
+    "purpose": "Rigid Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 11,
+    "name": "1-1/2 x 10 Rigid Conduit",
+    "purpose": "Rigid Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 12,
+    "name": "2 x 10 Rigid Conduit",
+    "purpose": "Rigid Conduit",
+    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
