@@ -205,5 +205,51 @@
       "catchPhrase": "-",
       "bs": ""
     }
+  },
+      {
+    "id": 10,
+    "name": "15 Amp 2-Way Switch",
+    "purpose": "light switch, black",
+    "image": "https://skrel.github.io/jsonapi/image/device6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+      {
+    "id": 11,
+    "name": "15 Amp 2-Way Toggle",
+    "purpose": "light switch, black",
+    "image": "https://skrel.github.io/jsonapi/image/device8.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
   }
 ]
