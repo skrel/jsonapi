@@ -320,5 +320,51 @@
       "catchPhrase": "-",
       "bs": ""
     }
+  },
+          {
+    "id": 15,
+    "name": "50A Flush Mount",
+    "purpose": "Single Outlet, black",
+    "image": "https://skrel.github.io/jsonapi/image/device15.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "fits all wallplates with 2.15 in. Dia center hole",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+          {
+    "id": 16,
+    "name": " 50A 3 Pole 3 wire no-grounding",
+    "purpose": "3.7hx2.25wx1.77d Single Outlet, Black",
+    "image": "https://skrel.github.io/jsonapi/image/device16.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "fits all wallplates with 2.15 in. Dia center hole",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
   }
 ]
