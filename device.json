@@ -251,5 +251,74 @@
       "catchPhrase": "-",
       "bs": ""
     }
+  },
+        {
+    "id": 12,
+    "name": "15 Amp Ground",
+    "purpose": "GFCI outlet, white",
+    "image": "https://skrel.github.io/jsonapi/image/device10.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+        {
+    "id": 13,
+    "name": "20 Amp Self-Test Duplex ",
+    "purpose": "GFCI Outlet, white",
+    "image": "https://skrel.github.io/jsonapi/image/device11.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
+  },
+        {
+    "id": 14,
+    "name": "20A Self-Test Duplex",
+    "purpose": "GFCI Outlet, white",
+    "image": "https://skrel.github.io/jsonapi/image/device12.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Hospital-Grade",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": ""
+    }
   }
 ]
