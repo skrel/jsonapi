@@ -481,5 +481,74 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 22,
+    "name": "Loop hanger",
+    "purpose": "Conduit and pipe support",
+    "image": "https://skrel.github.io/jsonapi/image/img22.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Residential/commercial, wall/ceiling/floor",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 23,
+    "name": "6x6x4in PVC Junction Box",
+    "purpose": "with conduits",
+    "image": "https://skrel.github.io/jsonapi/image/img23.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 24,
+    "name": "Panelboard and J-box",
+    "purpose": "electrical room",
+    "image": "https://skrel.github.io/jsonapi/image/img24.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Residential/commercial",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
