@@ -70,7 +70,7 @@
   },
     {
     "id": 4,
-    "name": " 3/8in Armored Cable / Flex Conn",
+    "name": "3/8in Armored Cable / Flex Conn",
     "purpose": "38A",
     "image": "https://skrel.github.io/jsonapi/image/connector4.png",
     "address": {
@@ -93,8 +93,8 @@
   },
       {
     "id": 5,
-    "name": " 3/8in Armored Cable / Flex Conn",
-    "purpose": "38A",
+    "name": "90 Degree 1/2in",
+    "purpose": "Conduit Connector",
     "image": "https://skrel.github.io/jsonapi/image/connector5.png",
     "address": {
       "street": "-",
@@ -107,7 +107,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "1/2in Knockout",
+    "website": "UL Listed",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -116,8 +116,8 @@
   },
       {
     "id": 6,
-    "name": " 3/8in Armored Cable / Flex Conn",
-    "purpose": "38A",
+    "name": "2in 90 Degree Squeeze",
+    "purpose": "Conduit Connector",
     "image": "https://skrel.github.io/jsonapi/image/connector6.png",
     "address": {
       "street": "-",
@@ -130,7 +130,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "1/2in Knockout",
+    "website": "Flexible Metal",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -139,8 +139,8 @@
   },
       {
     "id": 7,
-    "name": " 3/8in Armored Cable / Flex Conn",
-    "purpose": "38A",
+    "name": "3/4in Zinc Insulated",
+    "purpose": "Compression connectors",
     "image": "https://skrel.github.io/jsonapi/image/connector7.png",
     "address": {
       "street": "-",
@@ -153,7 +153,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "1/2in Knockout",
+    "website": "Knockout EMT Cable Connector",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -162,8 +162,8 @@
   },
       {
     "id": 8,
-    "name": " 3/8in Armored Cable / Flex Conn",
-    "purpose": "38A",
+    "name": "1/2in Plastic Adapter",
+    "purpose": "Conduit Connector",
     "image": "https://skrel.github.io/jsonapi/image/connector8.png",
     "address": {
       "street": "-",
@@ -176,7 +176,7 @@
       }
     },
     "qty": "add quantity",
-    "website": "1/2in Knockout",
+    "website": "Liquidtight conduit fitting",
     "company": {
       "name": "-",
       "catchPhrase": "-",
