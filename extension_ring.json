@@ -90,5 +90,51 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+      {
+    "id": 5,
+    "name": "3x4.72x1.16in Weatherproof",
+    "purpose": "Electrical Box Extender",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray, Aluminum",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 6,
+    "name": "1-Gang Weatherproof",
+    "purpose": "Electrical Box Extender",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray, Aluminum",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
