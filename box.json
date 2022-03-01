@@ -239,7 +239,7 @@
       "bs": "-"
     }
   },
-    {
+  {
     "id": 11,
     "name": "Carlon B114R-UPC Old Work",
     "purpose": "switch/outlet",
@@ -256,6 +256,126 @@
     },
     "qty": "add quantity",
     "website": "Polycarbonate",
+    "price": "$1.25",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 12,
+    "name": "4in Round",
+    "purpose": "Lighting",
+    "image": "https://skrel.github.io/jsonapi/image/box12.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Outdoor or Indoor",
+    "price": "$1.25",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 13,
+    "name": "Gangable 3x2 in",
+    "purpose": "switch",
+    "image": "https://skrel.github.io/jsonapi/image/box13.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "price": "$1.25",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 14,
+    "name": "1-Gang Weatherproof",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box14.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray Metal New Work Standard",
+    "price": "$1.25",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 15,
+    "name": "1-Gang Ceiling Fan",
+    "purpose": "Ceiling Fan",
+    "image": "https://skrel.github.io/jsonapi/image/box15.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray Steel New Work",
+    "price": "$1.25",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 16,
+    "name": "4in Square w Bracket",
+    "purpose": "switch/outlet",
+    "image": "https://skrel.github.io/jsonapi/image/box16.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Galvanized Steel",
     "price": "$1.25",
     "company": {
       "name": "-",
