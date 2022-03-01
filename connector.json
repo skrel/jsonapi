@@ -16,6 +16,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout MC Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -39,6 +40,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout MC Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -62,6 +64,7 @@
     },
     "qty": "add quantity",
     "website": "Combination Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -85,6 +88,7 @@
     },
     "qty": "add quantity",
     "website": "1/2in Knockout",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -108,13 +112,14 @@
     },
     "qty": "add quantity",
     "website": "UL Listed",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
       "bs": "-"
     }
   },
-      {
+  {
     "id": 6,
     "name": "2in 90 Degree Squeeze",
     "purpose": "Conduit Connector",
@@ -131,6 +136,7 @@
     },
     "qty": "add quantity",
     "website": "Flexible Metal",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -154,6 +160,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout EMT Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -177,6 +184,7 @@
     },
     "qty": "add quantity",
     "website": "Liquidtight conduit fitting",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -200,6 +208,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout EMT Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -223,6 +232,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout EMT Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -246,6 +256,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout EMT Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -269,6 +280,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout EMT Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -292,6 +304,7 @@
     },
     "qty": "add quantity",
     "website": "Knockout EMT Cable Connector",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -315,6 +328,7 @@
     },
     "qty": "add quantity",
     "website": "Polybag",
+    "price": "$1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
