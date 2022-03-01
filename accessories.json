@@ -16,6 +16,7 @@
     },
     "qty": "add quantity",
     "website": "Residential/commercial, with screw",
+    "price": " $0.25 ",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -39,6 +40,7 @@
     },
     "qty": "add quantity",
     "website": "Residential/commercial",
+    "price": " $1.50 ",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -62,6 +64,7 @@
     },
     "qty": "add quantity",
     "website": "Residential/commercial",
+    "price": " $1.00 ",
     "company": {
       "name": "-",
       "catchPhrase": "-",
