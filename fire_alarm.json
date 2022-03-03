@@ -1,1 +1,50 @@
-text
+[
+  {
+    "id": 1,
+    "name": " 4in sq. 2-1/8in deep",
+    "purpose": "Switch box",
+    "image": "https://skrel.github.io/jsonapi/image/fire_alarm1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Residential/commercial, Welded with MKO",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Red Break Glass Fire Alarm",
+    "purpose": "Fire Alarm, Size: 86 x 86 x 52mm",
+    "image": "https://skrel.github.io/jsonapi/image/fire_alarm2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Wall, Power Source: Electric",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  }
+]
