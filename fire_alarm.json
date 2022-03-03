@@ -46,5 +46,77 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 3,
+    "name": "Fire Alarm Junction Box",
+    "purpose": "Junction Box",
+    "image": "https://skrel.github.io/jsonapi/image/fire_alarm3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Fire Alarm",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 4,
+    "name": "Square junction box",
+    "purpose": "Fire smoke detector",
+    "image": "https://skrel.github.io/jsonapi/image/fire_alarm4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Material Ms",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 5,
+    "name": "Fire Alarm Control Panel",
+    "purpose": "Industrial Fire Alarm",
+    "image": "https://skrel.github.io/jsonapi/image/fire_alarm5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Automatic, M S body",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
