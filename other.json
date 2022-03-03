@@ -1,1 +1,50 @@
-
+[
+  {
+    "id": 1,
+    "name": "Unistrut 1-5/8 x 1-5/8 in",
+    "purpose": "Solid Channel, 12 Gauge",
+    "image": "https://skrel.github.io/jsonapi/image/other1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Original metal framing strut channel for strut metal framing",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+  {
+    "id": 2,
+    "name": "1-5/8 x 1-5/8 in Unistrut Slotted ",
+    "purpose": "Unistrut Slotted Channel Pregalvanized",
+    "image": "https://skrel.github.io/jsonapi/image/other2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Indoor and outdoor applications",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  }
+]
