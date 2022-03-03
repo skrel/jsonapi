@@ -70,5 +70,53 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+    {
+    "id": 4,
+    "name": "Fire Stop Pad",
+    "purpose": "Protect electrical outlet boxes",
+    "image": "https://skrel.github.io/jsonapi/image/accessories4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Backside of electrical boxes",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 5,
+    "name": "Fire rated pad",
+    "purpose": "Protect electrical outlet boxes",
+    "image": "https://skrel.github.io/jsonapi/image/accessories5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Inside of electrical boxes",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
