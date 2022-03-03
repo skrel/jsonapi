@@ -286,5 +286,581 @@
       "catchPhrase": "-",
       "bs": "-"
     }
+  },
+      {
+    "id": 13,
+    "name": "1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 14,
+    "name": "3/4x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 15,
+    "name": "1x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 16,
+    "name": "1-1/4x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 17,
+    "name": "1-1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 18,
+    "name": "2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 19,
+    "name": "2-1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 20,
+    "name": "3x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 21,
+    "name": "3-1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 22,
+    "name": "4x10 PVC Rigid Conduit6x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 23,
+    "name": "5x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 24,
+    "name": "6x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-40",
+    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 25,
+    "name": "1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 26,
+    "name": "3/4x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 27,
+    "name": "1x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662l",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 28,
+    "name": "1-1/4x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 29,
+    "name": "1-1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 30,
+    "name": "2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 31,
+    "name": "2-1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 32,
+    "name": "3x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 33,
+    "name": "3-1/2x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 34,
+    "name": "4x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 35,
+    "name": "5x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 36,
+    "name": "6x10 PVC Rigid Conduit",
+    "purpose": "Rigid Conduit, Schedule-80",
+    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Sunlight resistant, meets the requirements of NEMA TC-2 and UL-662",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
   }
 ]
