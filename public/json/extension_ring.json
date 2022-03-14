@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Box Extension Ring 2 Gang",
+    "purpose": "New Work",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall/ceiling",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 2,
+    "name": "4in 1-1/2 in Deep",
+    "purpose": "New work, octagon ext. ring",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Octagonal ceiling boxes, not fan rated",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 3,
+    "name": "1-Gang Ext Ring 1-7/8 deep",
+    "purpose": "Handy Box",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Drawn construction with 1/2 in KOs",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 4,
+    "name": "4 In Sq Ext 2-1/8 In. Deep",
+    "purpose": "Extend a 4in sq box",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall/ceiling",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 5,
+    "name": "3x4.72x1.16in Weatherproof",
+    "purpose": "Electrical Box Extender",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray, Aluminum",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 6,
+    "name": "1-Gang Weatherproof",
+    "purpose": "Electrical Box Extender",
+    "image": "https://skrel.github.io/jsonapi/image/extensionring6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Gray, Aluminum",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "name": "MC/AC Connector, 3/8in Duplex",
+    "purpose": "3838AST",
+    "image": "https://skrel.github.io/jsonapi/image/connector1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout MC Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+  {
+    "id": 2,
+    "name": "3/8in Ins MC Snap D/C Conn",
+    "purpose": "40AST",
+    "image": "https://skrel.github.io/jsonapi/image/connector2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout MC Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 3,
+    "name": "Bx/mc/flex 3/8-Inch",
+    "purpose": "Combination Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Combination Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 4,
+    "name": "3/8in Armored Cable / Flex Conn",
+    "purpose": "38A",
+    "image": "https://skrel.github.io/jsonapi/image/connector4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "1/2in Knockout",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 5,
+    "name": "90 Degree 1/2in",
+    "purpose": "Conduit Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector5.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "UL Listed",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+  {
+    "id": 6,
+    "name": "2in 90 Degree Squeeze",
+    "purpose": "Conduit Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector6.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Flexible Metal",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 7,
+    "name": "3/4in Zinc Insulated",
+    "purpose": "Compression connectors",
+    "image": "https://skrel.github.io/jsonapi/image/connector7.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout EMT Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 8,
+    "name": "1/2in Plastic Adapter",
+    "purpose": "Conduit Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector8.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Liquidtight conduit fitting",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 9,
+    "name": "3/4in Steel Set Screw",
+    "purpose": "Compression connectors",
+    "image": "https://skrel.github.io/jsonapi/image/connector9.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout EMT Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 10,
+    "name": "3/4in 90 Aluminum Set Screw",
+    "purpose": "Conduit Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector10.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout EMT Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 11,
+    "name": "1in Zinc-plated Steel",
+    "purpose": "Compression connectors",
+    "image": "https://skrel.github.io/jsonapi/image/connector11.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout EMT Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 12,
+    "name": "1/2in Steel Set Screw",
+    "purpose": "Conduit Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector12.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout EMT Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 13,
+    "name": "1/2in Die Cast ZincOffset, 90",
+    "purpose": "Compression connectors",
+    "image": "https://skrel.github.io/jsonapi/image/connector13.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Knockout EMT Cable Connector",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 14,
+    "name": "NM/SE Clamp",
+    "purpose": "Clamp Cable Connector",
+    "image": "https://skrel.github.io/jsonapi/image/connector14.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Polybag",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  }
+]
