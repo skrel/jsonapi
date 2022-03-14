@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "name": "330 Metal-Clad Cable",
+    "purpose": "MC",
+    "image": "https://skrel.github.io/jsonapi/image/wire1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Commercial, industrial, and residential",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+  {
+    "id": 2,
+    "name": "HH 2 Core Electrical Wire",
+    "purpose": "600V",
+    "image": "https://skrel.github.io/jsonapi/image/wire2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "FEP/PFA Industrial Wire And Cable",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 3,
+    "name": "14 Gauge 1 Wire",
+    "purpose": "Max. V= 150VAC, no Jacket",
+    "image": "https://skrel.github.io/jsonapi/image/wire3.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Direct Burial and Satellite Sprinkler Systems",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 4,
+    "name": "14 Gauge 2 Wire",
+    "purpose": "Rated V=300V, no Jacket",
+    "image": "https://skrel.github.io/jsonapi/image/wire4.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "various low voltage electronic device wiring",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 5,
+    "name": "MC L 12 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 6,
+    "name": "MC L 12 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 7,
+    "name": "MC L 10 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 8,
+    "name": "MC L 10 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 9,
+    "name": "MC L 8 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 10,
+    "name": "MC L 8 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 11,
+    "name": "MC L 6 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 12,
+    "name": "MC L 6 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 13,
+    "name": "MC L 4 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 14,
+    "name": "MC L 4 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Aluminum Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 15,
+    "name": "MC 12 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 16,
+    "name": "MC 12 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 17,
+    "name": "MC 10 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 18,
+    "name": "MC 10 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 19,
+    "name": "MC 8 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 20,
+    "name": "MC 8 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 21,
+    "name": "MC 6 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 22,
+    "name": "MC 6 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 23,
+    "name": "MC 4 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 24,
+    "name": "MC 4 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireSJ.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 25,
+    "name": "AC 12 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 26,
+    "name": "AC 12 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 27,
+    "name": "AC 10 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 28,
+    "name": "AC 10 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 29,
+    "name": "AC 8 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 30,
+    "name": "AC 8 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 31,
+    "name": "AC 6 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 32,
+    "name": "AC 6 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+    {
+    "id": 33,
+    "name": "AC 4 Gauge 2 Wire",
+    "purpose": "Solid Conductors: 2 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 34,
+    "name": "AC 4 Gauge 3 Wire",
+    "purpose": "Solid Conductors: 3 with Ground",
+    "image": "https://skrel.github.io/jsonapi/image/wireAC.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel Jacket, for grounding",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  }
+]
