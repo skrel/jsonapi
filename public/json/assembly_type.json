@@ -1,20 +1,20 @@
 [
     {
-        img:'https://skrel.github.io/jsonapi/image/config_duplex_rec.png'
+        "img":"https://skrel.github.io/jsonapi/image/config_duplex_rec.png"
     },
     {
-        img:'https://skrel.github.io/jsonapi/image/config_duplex_rec_gfi.png'
+        "img":"https://skrel.github.io/jsonapi/image/config_duplex_rec_gfi.png"
     },
     {
-        img:'https://skrel.github.io/jsonapi/image/config_duplex_rec_split_wire.png'
+        "img":"https://skrel.github.io/jsonapi/image/config_duplex_rec_split_wire.png"
     },
     {
-        img:'https://skrel.github.io/jsonapi/image/config_single_pole_switch.png'
+        "img":"https://skrel.github.io/jsonapi/image/config_single_pole_switch.png"
     },
     {
-        img:'https://skrel.github.io/jsonapi/image/config_double_pole_switch.png'
+        "img":"https://skrel.github.io/jsonapi/image/config_double_pole_switch.png"
     },
     {
-        img:'https://skrel.github.io/jsonapi/image/config_three_way_switch.png'
+        "img":"https://skrel.github.io/jsonapi/image/config_three_way_switch.png"
     }
 ]
