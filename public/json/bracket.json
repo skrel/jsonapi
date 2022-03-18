@@ -3,7 +3,7 @@
     "id": 1,
     "name": "To Stud 3-5/8 and 2-1/2 in",
     "purpose": "electrical box",
-    "image": "https://skrel.github.io/jsonapi/image/bracket1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "Stud Mounting",
     "purpose": "electrical box",
-    "image": "https://skrel.github.io/jsonapi/image/bracket2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "Adjustable",
     "purpose": "electrical box between studs",
-    "image": "https://skrel.github.io/jsonapi/image/bracket3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "Between studs",
     "purpose": "3 electrical boxes",
-    "image": "https://skrel.github.io/jsonapi/image/bracket4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "Between studs",
     "purpose": "electrical box mount",
-    "image": "https://skrel.github.io/jsonapi/image/bracket5.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket5.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -123,7 +123,7 @@
     "id": 6,
     "name": "Between studs",
     "purpose": "3 electrical boxes",
-    "image": "https://skrel.github.io/jsonapi/image/bracket6.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket6.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -147,7 +147,7 @@
     "id": 7,
     "name": "Snap to Stud 2-1/2 3-5/8",
     "purpose": "Up to 6in Wall Depth, 4in, 4 11/16in Box",
-    "image": "https://skrel.github.io/jsonapi/image/bracket7.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket7.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -171,7 +171,7 @@
     "id": 8,
     "name": "Steel Mounting Bracket",
     "purpose": "electrical box",
-    "image": "https://skrel.github.io/jsonapi/image/bracket8.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket8.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -195,7 +195,7 @@
     "id": 9,
     "name": "Steel Mounting Bracket",
     "purpose": "electrical box, far side support",
-    "image": "https://skrel.github.io/jsonapi/image/bracket9.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/bracket9.png",
     "address": {
       "street": "-",
       "suite": "-",
