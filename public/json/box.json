@@ -3,7 +3,7 @@
     "id": 1,
     "name": "4 in sq",
     "purpose": "switch/outlet/data",
-    "image": "https://skrel.github.io/jsonapi/image/box1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "1 Gang",
     "purpose": "convenience outlets, switches",
-    "image": "https://skrel.github.io/jsonapi/image/box2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "Octagon",
     "purpose": "light fixture",
-    "image": "https://skrel.github.io/jsonapi/image/box3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "Carlon 2-1/4 in round",
     "purpose": "light fixture",
-    "image": "https://skrel.github.io/jsonapi/image/box4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "4 Gang",
     "purpose": "multi-switch/outlet/data",
-    "image": "https://skrel.github.io/jsonapi/image/box5.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box5.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -123,7 +123,7 @@
     "id": 6,
     "name": "4 11/16 in sq",
     "purpose": "switch/outlet/data",
-    "image": "https://skrel.github.io/jsonapi/image/box6.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box6.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -147,7 +147,7 @@
     "id": 7,
     "name": "2 Gang Masonry",
     "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box7.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box7.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -171,7 +171,7 @@
     "id": 8,
     "name": "1 Gang Old Work",
     "purpose": "switch",
-    "image": "https://skrel.github.io/jsonapi/image/box8.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box8.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -195,7 +195,7 @@
     "id": 9,
     "name": "1 Gang 18 cu. in.",
     "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box9.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box9.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -219,7 +219,7 @@
     "id": 10,
     "name": "3 Gang",
     "purpose": "multi-switch/outlet/data",
-    "image": "https://skrel.github.io/jsonapi/image/box10.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box10.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -243,7 +243,7 @@
     "id": 11,
     "name": "Carlon B114R-UPC Old Work",
     "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box11.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box11.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -267,7 +267,7 @@
     "id": 12,
     "name": "4in Round",
     "purpose": "Lighting",
-    "image": "https://skrel.github.io/jsonapi/image/box12.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box12.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -291,7 +291,7 @@
     "id": 13,
     "name": "Gangable 3x2 in",
     "purpose": "switch",
-    "image": "https://skrel.github.io/jsonapi/image/box13.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box13.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -315,7 +315,7 @@
     "id": 14,
     "name": "1-Gang Weatherproof",
     "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box14.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box14.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -339,7 +339,7 @@
     "id": 15,
     "name": "1-Gang Ceiling Fan",
     "purpose": "Ceiling Fan",
-    "image": "https://skrel.github.io/jsonapi/image/box15.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box15.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -363,7 +363,7 @@
     "id": 16,
     "name": "4in Square w Bracket",
     "purpose": "switch/outlet",
-    "image": "https://skrel.github.io/jsonapi/image/box16.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/box16.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -376,6 +376,102 @@
     },
     "qty": "add quantity",
     "website": "Galvanized Steel",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 17,
+    "name": "Floor Electrical Outlet",
+    "purpose": "20Amp TR Duplex Receptacle",
+    "image": "https://skrel.github.io/jsonapi/public/image/box17.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Heavy Metal, WP Sockets for Home, Office",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 18,
+    "name": "1-Gang 4in Round Dual Flipt",
+    "purpose": "Lid Floor Box Cover, 20A TR Duplex Rec",
+    "image": "https://skrel.github.io/jsonapi/public/image/box18.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Junction box required (not included)",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+      {
+    "id": 19,
+    "name": "Round Pop-Up Floor Box Kit",
+    "purpose": "6in Dia Cover, 20A TR Receptacle",
+    "image": "https://skrel.github.io/jsonapi/public/image/box19.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Corrosive Resistant Hardware",
+    "price": "Sign In For Price",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+        {
+    "id": 20,
+    "name": "2-Gang Rectangle and Data",
+    "purpose": "Pop-Up Floor Box with 20A TR Rec",
+    "image": "https://skrel.github.io/jsonapi/public/image/box20.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Watertight gasket and corrosion resistant hardware",
     "price": "Sign In For Price",
     "company": {
       "name": "-",
