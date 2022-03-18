@@ -3,7 +3,7 @@
     "id": 1,
     "name": " 4in sq. 2-1/8in deep",
     "purpose": "Switch box",
-    "image": "https://skrel.github.io/jsonapi/image/fire_alarm1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/fire_alarm1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "Red Break Glass Fire Alarm",
     "purpose": "Fire Alarm, Size: 86 x 86 x 52mm",
-    "image": "https://skrel.github.io/jsonapi/image/fire_alarm2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/fire_alarm2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "Fire Alarm Junction Box",
     "purpose": "Junction Box",
-    "image": "https://skrel.github.io/jsonapi/image/fire_alarm3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/fire_alarm3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "Square junction box",
     "purpose": "Fire smoke detector",
-    "image": "https://skrel.github.io/jsonapi/image/fire_alarm4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/fire_alarm4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "Fire Alarm Control Panel",
     "purpose": "Industrial Fire Alarm",
-    "image": "https://skrel.github.io/jsonapi/image/fire_alarm5.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/fire_alarm5.png",
     "address": {
       "street": "-",
       "suite": "-",
