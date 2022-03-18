@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Stud mount, 4in sq box",
     "purpose": "1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "Stud mount, 4in sq box",
     "purpose": "1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "Stud mount, 4in sq",
     "purpose": "1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "Stud mount, 4in sq",
     "purpose": "1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "Stud mount, 4in sq",
     "purpose": "1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img5.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly5.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -123,7 +123,7 @@
     "id": 6,
     "name": "Stud mount, 4in sq",
     "purpose": "1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img6.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly6.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -147,7 +147,7 @@
     "id": 7,
     "name": "Stud mount, open back",
     "purpose": "1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img7.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly7.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -171,7 +171,7 @@
     "id": 8,
     "name": "Stud mount, open back",
     "purpose": "1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img8.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly8.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -195,7 +195,7 @@
     "id": 9,
     "name": "Between studs, 4in sq",
     "purpose": "1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img9.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly9.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -219,7 +219,7 @@
     "id": 10,
     "name": "Between studs, 4in sq",
     "purpose": "1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img10.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly10.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -243,7 +243,7 @@
     "id": 11,
     "name": "Between studs, telescop, 4in sq",
     "purpose": "Adjustable, 1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img11.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly11.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -267,7 +267,7 @@
     "id": 12,
     "name": "Between studs, telescop, 4in sq",
     "purpose": "Adjustable, 1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img12.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly12.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -291,7 +291,7 @@
     "id": 13,
     "name": "Between studs, 4in sq",
     "purpose": "Adjustable, 1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img13.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly13.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -315,7 +315,7 @@
     "id": 14,
     "name": "Between studs, 4in sq",
     "purpose": "Adjustable, 1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img14.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly14.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -339,7 +339,7 @@
     "id": 15,
     "name": "Between studs, 4in sq",
     "purpose": "Center, 1 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img15.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly15.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -363,7 +363,7 @@
     "id": 16,
     "name": "Between studs, 4in sq",
     "purpose": "Center, 1 box / 2 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img16.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly16.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -387,7 +387,7 @@
     "id": 17,
     "name": "Between studs, 4in sq",
     "purpose": "2 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img17.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly17.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -411,7 +411,7 @@
     "id": 18,
     "name": "Between studs, open back",
     "purpose": "Adjustable, 2 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img18.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly18.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -435,7 +435,7 @@
     "id": 19,
     "name": "Between studs, open back",
     "purpose": "Adjustable, 2 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img19.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly19.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -459,7 +459,7 @@
     "id": 20,
     "name": "Between studs, telescop, 4in sq",
     "purpose": "Adjustable, 2 box / 1 gang",
-    "image": "https://skrel.github.io/jsonapi/image/img20.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly20.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -483,7 +483,7 @@
     "id": 21,
     "name": "Stub 90, 1in",
     "purpose": "EMT Conduit, 90 deg bend",
-    "image": "https://skrel.github.io/jsonapi/image/img21.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly21.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -507,7 +507,7 @@
     "id": 22,
     "name": "Loop hanger",
     "purpose": "Conduit and pipe support",
-    "image": "https://skrel.github.io/jsonapi/image/img22.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly22.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -531,7 +531,7 @@
     "id": 23,
     "name": "6x6x4in PVC Junction Box",
     "purpose": "with conduits",
-    "image": "https://skrel.github.io/jsonapi/image/img23.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly23.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -555,7 +555,7 @@
     "id": 24,
     "name": "Panelboard and J-box",
     "purpose": "electrical room",
-    "image": "https://skrel.github.io/jsonapi/image/img24.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/assembly24.png",
     "address": {
       "street": "-",
       "suite": "-",
