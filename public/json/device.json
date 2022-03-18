@@ -3,7 +3,7 @@
     "id": 1,
     "name": "15 Amp Grade Grounding Duplex",
     "purpose": "Residential outlet",
-    "image": "https://skrel.github.io/jsonapi/image/device1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "Duplex Receptacle",
     "purpose": "GE Designer Grounding",
-    "image": "https://skrel.github.io/jsonapi/image/device2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "20 Amps 125 Volt and USB",
     "purpose": "Leviton Decora Outlet",
-    "image": "https://skrel.github.io/jsonapi/image/device3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "Red 20 Amp Duplex Receptacle",
     "purpose": "Outlets",
-    "image": "https://skrel.github.io/jsonapi/image/device4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "15 Amp Single-pole",
     "purpose": "light switch, white",
-    "image": "https://skrel.github.io/jsonapi/image/device5.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device5.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -123,7 +123,7 @@
     "id": 6,
     "name": "15 Amp Single-Pole",
     "purpose": "light switch, white",
-    "image": "https://skrel.github.io/jsonapi/image/device6.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device6.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -147,7 +147,7 @@
     "id": 7,
     "name": "15 Amp Single-Pole Toggle",
     "purpose": "light switch, white",
-    "image": "https://skrel.github.io/jsonapi/image/device7.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device7.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -171,7 +171,7 @@
     "id": 8,
     "name": "15 Amp 3-Way Toggle",
     "purpose": "light switch, black",
-    "image": "https://skrel.github.io/jsonapi/image/device8.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device8.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -195,7 +195,7 @@
     "id": 9,
     "name": "15 Amp 3-Way Switch",
     "purpose": "light switch, black",
-    "image": "https://skrel.github.io/jsonapi/image/device9.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device9.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -219,7 +219,7 @@
     "id": 10,
     "name": "15 Amp 2-Way Switch",
     "purpose": "light switch, black",
-    "image": "https://skrel.github.io/jsonapi/image/device6.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device6.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -243,7 +243,7 @@
     "id": 11,
     "name": "15 Amp 2-Way Toggle",
     "purpose": "light switch, black",
-    "image": "https://skrel.github.io/jsonapi/image/device8.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device8.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -267,7 +267,7 @@
     "id": 12,
     "name": "15 Amp Ground",
     "purpose": "GFCI outlet, white",
-    "image": "https://skrel.github.io/jsonapi/image/device10.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device10.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -291,7 +291,7 @@
     "id": 13,
     "name": "20 Amp Self-Test Duplex ",
     "purpose": "GFCI Outlet, white",
-    "image": "https://skrel.github.io/jsonapi/image/device11.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device11.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -315,7 +315,7 @@
     "id": 14,
     "name": "20A Self-Test Duplex",
     "purpose": "GFCI Outlet, white",
-    "image": "https://skrel.github.io/jsonapi/image/device12.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device12.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -339,7 +339,7 @@
     "id": 15,
     "name": "50A Flush Mount",
     "purpose": "Single Outlet, black",
-    "image": "https://skrel.github.io/jsonapi/image/device15.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device15.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -363,7 +363,7 @@
     "id": 16,
     "name": " 50A 3 Pole 3 wire no-grounding",
     "purpose": "3.7hx2.25wx1.77d Single Outlet, Black",
-    "image": "https://skrel.github.io/jsonapi/image/device16.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/device16.png",
     "address": {
       "street": "-",
       "suite": "-",
