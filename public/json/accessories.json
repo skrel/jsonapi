@@ -3,7 +3,7 @@
     "id": 1,
     "name": "12AWG Grounding Pigtail",
     "purpose": "grounding",
-    "image": "https://skrel.github.io/jsonapi/image/accessories1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/accessories1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "Ground Bar Kit 125 A",
     "purpose": "grounding",
-    "image": "https://skrel.github.io/jsonapi/image/accessories2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/accessories2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "4 in sq box cover",
     "purpose": "box cover",
-    "image": "https://skrel.github.io/jsonapi/image/accessories3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/accessories3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "Fire Stop Pad",
     "purpose": "Protect electrical outlet boxes",
-    "image": "https://skrel.github.io/jsonapi/image/accessories4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/accessories4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "Fire rated pad",
     "purpose": "Protect electrical outlet boxes",
-    "image": "https://skrel.github.io/jsonapi/image/accessories5.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/accessories5.png",
     "address": {
       "street": "-",
       "suite": "-",
