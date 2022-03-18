@@ -3,7 +3,7 @@
     "id": 1,
     "name": "1 x 10 Electric Metallic Tube",
     "purpose": "EMT Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit1.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit1.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -27,7 +27,7 @@
     "id": 2,
     "name": "1/2 x 10 Electric Metallic Tube",
     "purpose": "EMT Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -51,7 +51,7 @@
     "id": 3,
     "name": "3/4x10 Electric Metallic Tube",
     "purpose": "EMT Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -75,7 +75,7 @@
     "id": 4,
     "name": "1-1/4x10 Electric Metallic Tube",
     "purpose": "EMT Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -99,7 +99,7 @@
     "id": 5,
     "name": "1-1/2 x 10 Electric Metallic Tube",
     "purpose": "EMT Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -123,7 +123,7 @@
     "id": 6,
     "name": "2 x 10 Electric Metallic Tube",
     "purpose": "EMT Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -147,7 +147,7 @@
     "id": 7,
     "name": "1/2 x 10 Rigid Conduit",
     "purpose": "Rigid Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -171,7 +171,7 @@
     "id": 8,
     "name": "3/4 x 10 Rigid Conduit",
     "purpose": "Rigid Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -195,7 +195,7 @@
     "id": 9,
     "name": "1 x 10 Rigid Conduit",
     "purpose": "Rigid Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -219,7 +219,7 @@
     "id": 10,
     "name": "1-1/4 x 10 Rigid Conduit",
     "purpose": "Rigid Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -243,7 +243,7 @@
     "id": 11,
     "name": "1-1/2 x 10 Rigid Conduit",
     "purpose": "Rigid Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -267,7 +267,7 @@
     "id": 12,
     "name": "2 x 10 Rigid Conduit",
     "purpose": "Rigid Conduit",
-    "image": "https://skrel.github.io/jsonapi/image/conduit2.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit2.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -291,7 +291,7 @@
     "id": 13,
     "name": "1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -315,7 +315,7 @@
     "id": 14,
     "name": "3/4x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -339,7 +339,7 @@
     "id": 15,
     "name": "1x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -363,7 +363,7 @@
     "id": 16,
     "name": "1-1/4x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -387,7 +387,7 @@
     "id": 17,
     "name": "1-1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -411,7 +411,7 @@
     "id": 18,
     "name": "2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -435,7 +435,7 @@
     "id": 19,
     "name": "2-1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -459,7 +459,7 @@
     "id": 20,
     "name": "3x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -483,7 +483,7 @@
     "id": 21,
     "name": "3-1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -507,7 +507,7 @@
     "id": 22,
     "name": "4x10 PVC Rigid Conduit6x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -531,7 +531,7 @@
     "id": 23,
     "name": "5x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -555,7 +555,7 @@
     "id": 24,
     "name": "6x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-40",
-    "image": "https://skrel.github.io/jsonapi/image/conduit3.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit3.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -579,7 +579,7 @@
     "id": 25,
     "name": "1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -603,7 +603,7 @@
     "id": 26,
     "name": "3/4x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -627,7 +627,7 @@
     "id": 27,
     "name": "1x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -651,7 +651,7 @@
     "id": 28,
     "name": "1-1/4x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -675,7 +675,7 @@
     "id": 29,
     "name": "1-1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -699,7 +699,7 @@
     "id": 30,
     "name": "2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -723,7 +723,7 @@
     "id": 31,
     "name": "2-1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -747,7 +747,7 @@
     "id": 32,
     "name": "3x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -771,7 +771,7 @@
     "id": 33,
     "name": "3-1/2x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -795,7 +795,7 @@
     "id": 34,
     "name": "4x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -819,7 +819,7 @@
     "id": 35,
     "name": "5x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
@@ -843,7 +843,7 @@
     "id": 36,
     "name": "6x10 PVC Rigid Conduit",
     "purpose": "Rigid Conduit, Schedule-80",
-    "image": "https://skrel.github.io/jsonapi/image/conduit4.png",
+    "image": "https://skrel.github.io/jsonapi/public/image/conduit4.png",
     "address": {
       "street": "-",
       "suite": "-",
