@@ -1,1 +1,50 @@
-
+[
+  {
+    "id": 1,
+    "name": "4 in sq",
+    "purpose": "switch/outlet/data",
+    "image": "https://skrel.github.io/jsonapi/admin/image/box1.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall/ceiling",
+    "price": "$1.25",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  },
+  {
+    "id": 2,
+    "name": "1 Gang",
+    "purpose": "convenience outlets, switches",
+    "image": "https://skrel.github.io/jsonapi/admin/image/box2.png",
+    "address": {
+      "street": "-",
+      "suite": "-",
+      "city": "-",
+      "zipcode": "-",
+      "geo": {
+        "lat": "-",
+        "lng": "-"
+      }
+    },
+    "qty": "add quantity",
+    "website": "Steel, residential/commercial, wall",
+    "price": "$0.95",
+    "company": {
+      "name": "-",
+      "catchPhrase": "-",
+      "bs": "-"
+    }
+  }
+]
