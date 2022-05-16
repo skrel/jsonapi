@@ -16,7 +16,7 @@
     },
     "qty": "add quantity",
     "website": "Steel, residential/commercial, wall/ceiling",
-    "price": "$1.25",
+    "price": "1.25",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -40,7 +40,7 @@
     },
     "qty": "add quantity",
     "website": "Steel, residential/commercial, wall",
-    "price": "$0.95",
+    "price": "0.95",
     "company": {
       "name": "-",
       "catchPhrase": "-",
