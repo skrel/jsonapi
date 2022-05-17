@@ -16,7 +16,7 @@
     },
     "qty": "add quantity",
     "website": "Residential/commercial, with screw",
-    "price": "Sign In For Price",
+    "price": "0.00",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -40,7 +40,7 @@
     },
     "qty": "add quantity",
     "website": "Residential/commercial",
-    "price": "Sign In For Price",
+    "price": "0.00",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -64,7 +64,7 @@
     },
     "qty": "add quantity",
     "website": "Residential/commercial",
-    "price": "Sign In For Price",
+    "price": "0.00",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -88,7 +88,7 @@
     },
     "qty": "add quantity",
     "website": "Backside of electrical boxes",
-    "price": "Sign In For Price",
+    "price": "0.00",
     "company": {
       "name": "-",
       "catchPhrase": "-",
@@ -112,7 +112,7 @@
     },
     "qty": "add quantity",
     "website": "Inside of electrical boxes",
-    "price": "Sign In For Price",
+    "price": "0.00",
     "company": {
       "name": "-",
       "catchPhrase": "-",
